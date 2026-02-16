@@ -12,9 +12,9 @@ If the official website for IRT 2021 is unresponsive, please use the `Report a p
 
 If this does not result in the restoration of the site as quickly as you need it, instructions for using the code in this repository to run a local version of the publication (including indexes and search, but **not** including photographs) on your computer can be found below.
 
-1. Using the **CODE** button close to the top of the `repository page <https://github.com/IRT2024/IRT-EFES>`__, either "clone" the repository (if you know what this means), or **Download ZIP**. Extract the ZIP archive to a new folder on your hard drive.
-1. Follow the `First time installation <https://github.com/EpiDoc/EFES/wiki/Installation>`__ instructions from the EFES User Guide, and then follow the instructions to set up `RDF Respository <https://github.com/EpiDoc/EFES/wiki/Creating-an-RDF-repository>`__, harvest and index the inscriptions. Some of these steps may take a few minutes. Let them.
-1. You should then be able to view the website locally by return to the link in your command/terminal window.
+#. Using the **CODE** button close to the top of the `repository page <https://github.com/IRT2024/IRT-EFES>`__, either "clone" the repository (if you know what this means), or **Download ZIP**. Extract the ZIP archive to a new folder on your hard drive.
+#. Follow the `First time installation <https://github.com/EpiDoc/EFES/wiki/Installation>`__ instructions from the EFES User Guide, and then follow the instructions to set up `RDF Respository <https://github.com/EpiDoc/EFES/wiki/Creating-an-RDF-repository>`__, harvest and index the inscriptions. Some of these steps may take a few minutes. Let them.
+#. You should then be able to view the website locally by return to the link in your command/terminal window.
 
 EFES: EpiDoc Front-End Services
 ====
