@@ -1,16 +1,23 @@
 Inscriptions of Roman Tripolitania (2021)
 ====
 
-This is an EFES instance, based on the IRCyr 2020 publication hosted by King's Digital Lab, used to publish a new edition of Inscriptions of Roman Tripolitania (2009 version at <http://inslib.kcl.ac.uk/irt2009/>) in 2021 by Charlotte M. Roueché, Gabriel Bodard and Irene Vagionakis.
+* Online version: https://irt2021.inslib.kcl.ac.uk/
 
-In collaboration with:
+This repository contains the source code (based on `EFES <https://github.com/EpiDoc/EFES>`__ and `EpiDoc <https://epidoc.stoa.org/>`__), for the 2021 publication of the Inscriptions of Roman Tripolitania by Charlotte M. Roueché, Gabriel Bodard and Irene Vagionakis, in collaboration with Caroline Barron, Usama Gad and Scott Vanderbilt. This is the second digital edition (after the `2009 version <http://inslib.kcl.ac.uk/irt2009/>`__) of the original 1952 volume by J.M. Reynolds and J.B. Ward-Perkins in collaboration with Salvatore Autigemma, Renato Bartoccini, Giacomo Caputo, Richard Goodchild and Pietro Romanelli.
 
-* Caroline Barron
-* Usama Gad
-* Scott Vanderbilt
+To install a local copy of IRT2021
+----
+
+If the official website for IRT 2021 is unresponsive, please use the `Report a problem <https://kdl.kcl.ac.uk/contact-us/>`__ link to inform King's Digital Lab, the hosting company, of the problem.
+
+If this does not result in the restoration of the site as quickly as you need it, instructions for using the code in this repository to run a local version of the publication (including indexes and search, but **not** including photographs) on your computer can be found below.
+
+1. Using the **CODE** button close to the top of the `repository page <https://github.com/IRT2024/IRT-EFES>`__, either "clone" the repository (if you know what this means), or **Download ZIP**. Extract the ZIP archive to a new folder on your hard drive.
+1. Follow the `First time installation <https://github.com/EpiDoc/EFES/wiki/Installation>`__ instructions from the EFES User Guide, and then follow the instructions to set up `RDF Respository <https://github.com/EpiDoc/EFES/wiki/Creating-an-RDF-repository>`__, harvest and index the inscriptions. Some of these steps may take a few minutes. Let them.
+1. You should then be able to view the website locally by return to the link in your command/terminal window.
 
 EFES: EpiDoc Front-End Services
-----
+====
 
 **EFES is envisioned as a delivery, search and browse platform 
 that can be set up and customized for an individual EpiDoc 
